@@ -1,0 +1,21 @@
+---
+layout: page
+title: Flora y fauna
+permalink: /acarete-flora-fauna/
+type: extras
+description: Flora y fauna mencionados en el texto
+---
+
+<h2>Subtítulo</h2>
+
+<p>En esta sección...</p>
+
+  <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+    {% for personaje in site.flora_fauna %}
+      {% include card.html %}
+    {% endfor %}
+  </div>
+
+  {% for personaje in site.flora_fauna %}
+    {% include modal.html %}
+  {% endfor %}
