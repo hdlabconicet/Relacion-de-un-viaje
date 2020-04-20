@@ -32,7 +32,8 @@ layout: default
         // get the substring (query) and decode
         var searchquery = decodeURIComponent(url.substr(stringloc));
         // regex matches at begnning of line, end of line or word boundary, useful for poetry
-        var regex = new RegExp("(?:^|\\b)(" + searchquery + ")(?:$|\\b)", "gim");
+        //var regex = new RegExp("(?:^|\\b)(" + searchquery + ")(?:$|\\b)", "gim");
+        var regex = new RegExp("(?:^|)(" + searchquery + ")(?:$|)", "gim");
         // get, add mark and then set content
         var content = document.getElementById("main").innerHTML;
         document.getElementById("main").innerHTML = content.replace(regex, "<mark>$1</mark>");
