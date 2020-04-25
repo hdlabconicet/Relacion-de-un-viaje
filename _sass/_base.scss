@@ -28,10 +28,9 @@ button {
   margin: 0;
   padding: 0;
   border-bottom: 1px dotted;
-  cursor: help;
 }
 
-button[data-balloon]{overflow:visible}[data-balloon]{position:relative;cursor:pointer}
+button[data-balloon]{overflow:visible}[data-balloon]{position:relative;}
 [data-balloon]:after{filter:alpha(opacity=0);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 -moz-opacity:0;-khtml-opacity:0;opacity:0;pointer-events:none;-webkit-transition:all 0.18s ease-out 0.18s;
 -moz-transition:all 0.18s ease-out 0.18s;
