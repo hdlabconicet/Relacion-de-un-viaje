@@ -22,6 +22,17 @@ type: extras
 
 * Altuna, Elena. "[Acarette du Biscay: Los vulnerables límites del imperio](https://as.tufts.edu/romancestudies/rcll/pdfs/60/11-ALTUNA.pdf)" Revista de crítica literaria latinoamericana (2004): 189-207.
 
+### Flora y Fauna
+
+* Azara, Félix de Apuntamientos para la historia natural de los páxaros del Paragüay y Rio de la Plata [Texto impreso] / escritos por Felix de Azara ; Tomo primero [Tomo tercero] (http://bdh-rd.bne.es/viewer.vm?id=0000009722&page=1)
+
+* Bru de Ramón, Juan Bautista. Coleccion de laminas que representan los animales y monstruos del Real Gabinete de Historia Natural de Madrid, con una descripcion individual de cada uno [Texto impreso] / por ... Juan Bautista Bru de Ramon ; Tomo I [ Tomo II]
+(http://bdh-rd.bne.es/viewer.vm?id=0000005127&page=1)
+
+* Pereira, Magnus Roberto de Mello. "Las cosas singulares de piedras, animales, plantas": la formación y el funcionamiento de la red imperial española de remesas centíficas en el Virreinato del Río de la Plata. An. mus. paul. [online]. 2013, vol.21, n.1 [cited  2020-05-08], pp.91-138. (https://doi.org/10.1590/S0101-4714201300010000)
+
+* Von Humboldt, Alexander. Voyage de Humboldt et Bonpland...(https://digital.library.sc.edu/collections/humboldts-atlas-of-latin-america-1799-1804/)
+
 
 ### Mapas
 
