@@ -11,9 +11,15 @@ img: pg_0001
 
 <div class="row">
     <div class="col-left">
- <h2>Relación del viaje</h2><p>La inclinación que siempre tuve a viajar, me hizo abandonar siendo muy joven la casa de mi padre, y puedo asegurar que no me impulsaba tanto a ello la mera curiosidad de ver países extraños, cuanto la esperanza que abrigaba de adquirir conocimientos y desarrollar mi inteligencia, lo que en el futuro podría serme provechoso no sólo en mis negocios particulares, sino también haciéndome más útil a mi Rey y a mi patria, el cual declaro fue el principal móvil de mi viaje. Fui primero a <a href="http://sws.geonames.org/2510769" target="_blank">España</a>, donde permanecí el tiempo suficiente para aprender el idioma, particularmente en <a href="http://sws.geonames.org/2520600" target="_blank">Cádiz</a>. </p></div>
+ <h2>Relación del viaje</h2><p>La inclinación que siempre tuve a viajar, me hizo abandonar siendo muy joven la casa de mi padre, y puedo asegurar que no me impulsaba tanto a ello la mera curiosidad de ver países extraños, cuanto la esperanza que abrigaba de adquirir conocimientos y desarrollar mi inteligencia, lo que en el futuro podría serme provechoso no sólo en mis negocios particulares, sino también haciéndome más útil a mi Rey y a mi patria, el cual declaro fue el principal móvil de mi viaje. Fui primero a <a id="geonames2510769" class="map-balloon" href="javascript:;">España</a>, donde permanecí el tiempo suficiente para aprender el idioma, particularmente en <a id="geonames2520600" class="map-balloon" href="javascript:;">Cádiz</a>. </p></div>
 
 <div class="col-right" style="padding-left: 25px;">
 <a class="no-underline" href="{{site.baseurl}}/assets/img/acarete/{{page.img}}.png"><img src="{{site.baseurl}}/assets/img/acarete/{{page.img}}.png"></a>
 </div>
-</div>
+</div><script type="text/javascript">
+  $(function() {  $("#geonames2520600").miniPreview();
+  $("#geonames2510769").miniPreview();
+  });
+</script>
+<script src="{{ site.baseurl }}/assets/js/acaretePlaces.js" type="text/javascript"></script>
+<script src="{{ site.baseurl }}/assets/js/map-balloon.js"></script>

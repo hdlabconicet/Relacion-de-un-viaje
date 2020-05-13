@@ -24,6 +24,7 @@ layout: default
   {% include previous-next.html %}
 </div>
 
+<!-- Queries -->
 <script>
     var url = window.location.href;
       if (url.lastIndexOf("?q=") > 0) {
@@ -39,4 +40,4 @@ layout: default
         document.getElementById("main").innerHTML = content.replace(regex, "<mark>$1</mark>");
       }
       (document);
-    </script>
+</script>
