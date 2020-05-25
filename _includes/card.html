@@ -6,18 +6,17 @@
             <img src="{{personaje.img}}" alt="{{personaje.nombre}}-img"/>
             <noscript><img src="{{personaje.img}}" alt="{{personaje.nombre}}-img"/></noscript>
           </figure>
+          <p style="font-size: 10px; text-align:right;"><a class="no-underline" href="{{personaje.fuente_url}}">Imagen: {{personaje.fuente}}</a></p>
         {% else %}
           <figure class="post-card__placehold">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Conquistador_Armor.jpg/256px-Conquistador_Armor.jpg" alt="conquistador-img"/>
-            <noscript><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Conquistador_Armor.jpg" alt="conquistador-img"/></noscript>
+            <div class="dark-bg"></div>
           </figure>
         {% endif %}
       </a>
       <a class="post-card__inner" href="#portfolioModal-{{personaje.lnk}}" class="portfolio-link" data-toggle="modal">
         <div class="post-card__header">
           <h3>{{personaje.nombre}}</h3>
-          <span class="post-card__meta">{{personaje.fechas}}</span>
-          <p>{{personaje.posicion}}</p>
+          <span>{{ personaje.content | strip_html | truncatewords:10 }} </span>
         </div>
       </a>
     </div>
