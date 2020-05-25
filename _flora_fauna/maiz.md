@@ -2,7 +2,7 @@
 nombre: Maíz
 fechas: pg_0035
 posicion: 
-img: ../assets/img/maiz-Tres_mazorcas_de_maíz_natural_Anteriores_al_siglo_XVI_Museo_de_América.jpg
+img: ../assets/img/maiz-Tres_mazorcas-siglo_XVI_Museo_de_America.jpg
 lnk: maíz
 fuente: Wikimedia Commons
 fuente_url: https://upload.wikimedia.org/wikipedia/commons/6/6a/Tres_mazorcas_de_ma%C3%ADz_natural._Anteriores_al_siglo_XVI._Museo_de_Am%C3%A9rica.jpg?uselang=es

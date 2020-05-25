@@ -2,7 +2,7 @@
 nombre: Cereza
 fechas: pg_0033
 posicion: 
-img: ../assets/img/vicugna-University_of_Amsterdam.jpg
+img: ../assets/img/cereza-the-botanical.jpg
 lnk: cereza
 fuente: Wikimedia Commons
 fuente_url: https://commons.wikimedia.org/wiki/Category:Eugenia_uniflora#/media/File:The_Botanical_Magazine,_Plate_473_(Volume_14,_1800).png
