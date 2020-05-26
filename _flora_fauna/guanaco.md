@@ -10,4 +10,5 @@ detalle: grandes como caballos, con el cuello muy largo y cabeza pequeña y cola
 ---
 
 <p>El Guanaco (Lama guanicoe) es una especie de mamífero artiodáctilo de la familia Camelidae propia de América del Sur. Es un animal salvaje, en oposición a la llama (Lama glama) que es doméstica. Es de huesos finos, con una altura aproximada de 1,60 metros y cerca de 91 kilogramos de peso.? Los guanacos jóvenes son llamados chulengos. Su nombre proviene del quechua, wanaku. Es uno de los pocos mamíferos que pueden beber agua salada sin ningún problema.</p>
+<p>Información obtenida de <a href="https://es.wikipedia.org/wiki/Lama_guanicoe" target="_blank">https://es.wikipedia.org/wiki/Lama_guanicoe</a></p>
 

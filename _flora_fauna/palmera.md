@@ -10,4 +10,5 @@ detalle: que producen dátiles algo menores a los de los países orientales
 ---
 
 <p>La palmera, Caranday o ananachícarí (Copernicia alba) es una planta de la familia de las arecáceas, nativa de la ecorregión del Gran Chaco, al Sureste de Bolivia en los departamentos de Santa Cruz, Chuquisaca y Tarija, en las provincias argentinas de Formosa, Chaco, Corrientes, Santa Fe y Salta, y el Chaco paraguayo. De rápida germinación y abundante en forma silvestre, se aprovecha poco en jardinería frente a otras palmeras de la zona. Es la más resistente al frío de las especies de Copernicia.</p>
+<p>Información obtenida de <a href="https://es.wikipedia.org/wiki/Copernicia_alba" target="_blank">https://es.wikipedia.org/wiki/Copernicia_alba</a></p>
 
