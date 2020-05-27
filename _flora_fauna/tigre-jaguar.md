@@ -2,10 +2,10 @@
 nombre: Jaguar
 fechas: pg_0033
 posicion: 
-img: ../assets/img/Jaguar_Panthera_onca.jpg
+img: ../assets/img/Le_Couguar-Sève_Jacques_btv1b105285278_1.jpg
 lnk: jaguar
-fuente: Wikimedia Commons
-fuente_url: https://commons.wikimedia.org/wiki/Category:Jaguars_of_the_Pantanal#/media/File:Jaguar_(Panthera_onca)_young_male_sharpening_its_claws_..._(48407845142).jpg
+fuente: Gallica BnF
+fuente_url: https://gallica.bnf.fr/ark:/12148/btv1b105285278.r=cougar?rk=64378;0
 detalle: que son muy feroces y voraces
 ---
 
