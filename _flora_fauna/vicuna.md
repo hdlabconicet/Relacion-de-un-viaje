@@ -3,7 +3,7 @@ nombre: Vicuña
 determinante: La
 fechas: pg_0040
 posicion: 
-img: ../assets/img/vicugna-University_of_Amsterdam.jpg
+img: ../assets/img/vicugna-University_of_Amsterdam_xs.jpg
 lnk: vicuna
 fuente: University of Amsterdam
 fuente_url: https://commons.wikimedia.org/wiki/File:Auchenia_vicugna_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ21600113.tif

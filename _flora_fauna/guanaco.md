@@ -3,7 +3,7 @@ nombre: Guanaco
 determinante: El
 fechas: pg_0033
 posicion: 
-img: ../assets/img/guanaco-The_wild_beasts_of_the_world.jpg
+img: ../assets/img/guanaco-The_wild_beasts_of_the_world_xs.jpg
 lnk: guanaco
 fuente: Wikimedia Commons
 fuente_url: https://upload.wikimedia.org/wikipedia/commons/8/86/The_wild_beasts_of_the_world_%28Plate_28%29_%288116050858%29.jpg?uselang=es

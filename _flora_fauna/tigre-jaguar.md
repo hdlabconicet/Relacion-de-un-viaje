@@ -3,7 +3,7 @@ nombre: Jaguar
 determinante: El
 fechas: pg_0033
 posicion: 
-img: ../assets/img/Le_Couguar-Sève_Jacques_btv1b105285278_1.jpg
+img: ../assets/img/Le_Couguar-Seve_Jacques_btv1b105285278_1_xs.jpg
 lnk: jaguar
 fuente: Gallica BnF
 fuente_url: https://gallica.bnf.fr/ark:/12148/btv1b105285278.r=cougar?rk=64378;0

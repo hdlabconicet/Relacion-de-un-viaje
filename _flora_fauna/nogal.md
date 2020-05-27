@@ -3,7 +3,7 @@ nombre: Nogal
 determinante: El
 fechas: pg_0026
 posicion: 
-img: ../assets/img/nogal-BHL16635436.jpg
+img: ../assets/img/nogal-BHL16635436_xs.jpg
 lnk: noga
 fuente: Wikimedia Commons
 fuente_url: https://upload.wikimedia.org/wikipedia/commons/3/3e/El_Jard%C3%ADn_bot%C3%A1nico_de_Buenos_Aires_%28Page_124%29_BHL16635436.jpg

@@ -3,7 +3,7 @@ nombre: Llama
 determinante: La
 fechas: pg_0051
 posicion: 
-img: ../assets/img/llama-Brehm_Life_of_animals_1895.jpg
+img: ../assets/img/llama-Brehm_Life_of_animals_1895_xs.jpg
 lnk: llama
 fuente: Wikimedia Commons
 fuente_url: https://commons.wikimedia.org/wiki/Category:Lama_glama_(illustrations)#/media/File:Brehm's_Life_of_animals_-_a_complete_natural_history_for_popular_home_instruction_and_for_the_use_of_schools_(1895)_(19790575574).jpg

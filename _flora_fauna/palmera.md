@@ -3,7 +3,7 @@ nombre: Palmera
 determinante: La
 fechas: pg_0034
 posicion: 
-img: ../assets/img/palmera-Copernicia_australis_1892.jpg
+img: ../assets/img/palmera-Copernicia_australis_1892_xs.jpg
 lnk: palmera
 fuente: Wikimedia Commons
 fuente_url: https://commons.wikimedia.org/wiki/Copernicia_alba#/media/File:Copernicia_australis_1892.jpg

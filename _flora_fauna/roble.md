@@ -3,7 +3,7 @@ nombre: Roble
 determinante: El
 fechas: pg_0010
 posicion: 
-img: ../assets/img/roble-Amburana_cearensis.jpg
+img: ../assets/img/roble-Amburana_cearensis_xs.jpg
 lnk: roble
 fuente: Wikimedia Commons
 fuente_url: https://commons.wikimedia.org/wiki/Category:Amburana_cearensis#/media/File:Amburana_cearensis.jpg

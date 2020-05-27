@@ -3,7 +3,7 @@ nombre: Algarrobo
 determinante: El
 fechas: pg_0032
 posicion: 
-img: ../assets/img/algarrobo-Prosopis_alba.jpg
+img: ../assets/img/algarrobo-Prosopis_alba_xs.jpg
 lnk: algarrobo
 detalle: cuyo fruto sirve para hacer una bebida que es dulce y picantita, y que sube a la cabeza como el vino
 fuente: Wikimedia Commons

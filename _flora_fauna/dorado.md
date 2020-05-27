@@ -3,7 +3,7 @@ nombre: Dorado
 determinante: El
 fechas: pg_0029
 posicion: 
-img: ../assets/img/dorado-Salminus_brasiliensis_Castelnau.jpg
+img: ../assets/img/dorado-Salminus_brasiliensis_Castelnau_xs.jpg
 lnk: dorado
 fuente: Wikimedia Commons
 fuente_url: https://commons.wikimedia.org/wiki/File:Salminus_brasiliensis_Castelnau.jpg

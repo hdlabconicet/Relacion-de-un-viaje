@@ -3,7 +3,7 @@ nombre: Yerba
 determinante: La
 fechas: pg_0010
 posicion: 
-img: ../assets/img/yerba-American_journal-pharmacy1878.jpg
+img: ../assets/img/yerba-American_journal-pharmacy1878_xs.jpg
 lnk: yerba
 fuente: Wikimedia Commons
 fuente_url: https://commons.wikimedia.org/wiki/Category:Ilex_paraguariensis_-_botanical_illustrations#/media/File:American_journal_of_pharmacy_(1878)_(14770357052).jpg

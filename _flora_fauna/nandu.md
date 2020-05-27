@@ -3,9 +3,9 @@ nombre: Ñandú
 determinante: El
 fechas: pg_0019
 posicion: 
-img: ../assets/img/nandu-Image-Rhea_Darwinii1.jpg
+img: ../assets/img/nandu-Image-Rhea_Darwinii1_xs.jpg
 lnk: nandu
-fuente: Darwin, C. R. ed. 1841. Birds Part 3 No. 5 of The zoology of the voyage of H.M.S. Beagle. by John Gould.
+fuente: Wikimedia Commons
 fuente_url: https://commons.wikimedia.org/wiki/File:Image-Rhea_Darwinii1.jpg
 detalle: que andan en tropillas como el ganado y aunque su carne es buena, sin embargo nadie la come sino los . Hacen sombrillas con sus plumas, las cuales son muy cómodas para el sol...
 ---

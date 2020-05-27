@@ -3,7 +3,7 @@ nombre: Ballena
 determinante: La
 fechas: pg_0007
 posicion: 
-img: ../assets/img/ballena-British_mammals.jpg
+img: ../assets/img/ballena-British_mammals_xs.jpg
 lnk: ballena
 fuente: Wikimedia Commons
 fuente_url: https://commons.wikimedia.org/wiki/Category:Balaenoptera_musculus_(illustrations)#/media/File:British_mammals_(Pl._43)_(21269607064).jpg
