@@ -11,5 +11,5 @@ detalle: que es muy bueno para comer
 ---
 
 <p>El dorado, damita o pirayú (Salminus brasiliensis) es un pez caraciforme de gran tamaño que habita las aguas tropicales de las cuencas de los ríos Paraná, Paraguay, Uruguay, Chapare y Mamoré en América del Sur.</p>
-<p>Información obtenida de <a href="https://es.wikipedia.org/wiki/Salminus_brasiliensis" target="_blank">https://es.wikipedia.org/wiki/Salminus_brasiliensis</a></p>
+<p style="font-size: 10px; text-align:right;">Información obtenida de <a href="https://es.wikipedia.org/wiki/Salminus_brasiliensis" target="_blank">https://es.wikipedia.org/wiki/Salminus_brasiliensis</a></p>
 
