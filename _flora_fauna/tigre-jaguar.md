@@ -1,5 +1,6 @@
 ---
 nombre: Jaguar
+determinante: El
 fechas: pg_0033
 posicion: 
 img: ../assets/img/Jaguar_Panthera_onca.jpg

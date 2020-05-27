@@ -1,5 +1,6 @@
 ---
 nombre: Maíz
+determinante: El
 fechas: pg_0035
 posicion: 
 img: ../assets/img/maiz-Tres_mazorcas-siglo_XVI_Museo_de_America.jpg

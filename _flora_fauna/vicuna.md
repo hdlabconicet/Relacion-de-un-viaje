@@ -1,5 +1,6 @@
 ---
 nombre: Vicuña
+determinante: La
 fechas: pg_0040
 posicion: 
 img: ../assets/img/vicugna-University_of_Amsterdam.jpg

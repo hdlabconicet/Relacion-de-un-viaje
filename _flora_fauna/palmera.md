@@ -1,5 +1,6 @@
 ---
 nombre: Palmera
+determinante: La
 fechas: pg_0034
 posicion: 
 img: ../assets/img/palmera-Copernicia_australis_1892.jpg

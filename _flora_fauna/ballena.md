@@ -1,5 +1,6 @@
 ---
 nombre: Ballena
+determinante: La
 fechas: pg_0007
 posicion: 
 img: ../assets/img/ballena-British_mammals.jpg

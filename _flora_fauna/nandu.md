@@ -1,5 +1,6 @@
 ---
 nombre: Ñandú
+determinante: El
 fechas: pg_0019
 posicion: 
 img: ../assets/img/nandu-Image-Rhea_Darwinii1.jpg

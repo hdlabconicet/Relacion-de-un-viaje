@@ -1,5 +1,6 @@
 ---
 nombre: Dorado
+determinante: El
 fechas: pg_0029
 posicion: 
 img: ../assets/img/dorado-Salminus_brasiliensis_Castelnau.jpg

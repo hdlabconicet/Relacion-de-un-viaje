@@ -1,5 +1,6 @@
 ---
 nombre: Yerba
+determinante: La
 fechas: pg_0010
 posicion: 
 img: ../assets/img/yerba-American_journal-pharmacy1878.jpg

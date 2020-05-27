@@ -1,5 +1,6 @@
 ---
 nombre: Guanaco
+determinante: El
 fechas: pg_0033
 posicion: 
 img: ../assets/img/guanaco-The_wild_beasts_of_the_world.jpg
