@@ -3,6 +3,7 @@ layout: page
 title: Bibliografía
 permalink: /acarete-biblio/
 type: extras
+icon: book
 ---
 
 <!-- <embed width="800" height="800" src="https://api.zotero.org/groups/1669951/items?format=bib&style=apa"> -->
