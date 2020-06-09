@@ -26,7 +26,7 @@ type: extras
     </svg>
     <a class="no-underline" title="Texto en Voyant" href="https://voyant-tools.org/?corpus=604be9f5b8eff8a1187ab5c321fedc91&panels=cirrus,reader,trends,summary,contexts" target="_blank">Voyant Tools</a>
   </h2>
-  <a class="h3 lh-condensed" href="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o/part/1/edit" target="_blank"><p>Estadísticas textuales y visualizaciones de Relación de un viaje al Río de la Plata</p></a></div>
+  <a class="h3 lh-condensed" href="https://voyant-tools.org/?corpus=604be9f5b8eff8a1187ab5c321fedc91&panels=cirrus,reader,trends,summary,contexts" target="_blank"><p>Estadísticas textuales y visualizaciones de Relación de un viaje al Río de la Plata</p></a></div>
 
   {% for post in site.recursos %}
     {% include post_block.html %}
