@@ -1,5 +1,5 @@
-
-<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" href="tei_all.rng" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
           <fileDesc>
@@ -49,7 +49,7 @@ Paraná-Plata.</note>
 </div>
             <div n="2"> <!-- seguir con las divs para los tres caps-->
               <pb facs="pg_0001.png"/> <!-- marca del page beginning -->
-              <hi><head>Relación del viaje</head></hi>
+              <head>Relación del viaje</head>
             <p>  La inclinación que siempre tuve a viajar, me hizo abandonar siendo muy joven la casa de mi padre, y puedo asegurar que no me impulsaba tanto a ello la mera curiosidad de ver países extraños, cuanto la esperanza que abrigaba de adquirir conocimientos y desarrollar mi inteligencia, lo que en el futuro podría serme provechoso no sólo en mis negocios particulares, sino también haciéndome más útil a mi Rey y a mi patria, el cual declaro fue el principal móvil de mi viaje. Fui primero a <placeName ref="http://sws.geonames.org/2510769" xml:id="recogito-7c358b07-fec8-42ae-8b66-3e91f8fd7e4d" cert="high">España</placeName>, donde permanecí el tiempo suficiente para aprender el idioma, particularmente en <placeName ref="http://sws.geonames.org/2520600" xml:id="recogito-82eea8a7-5540-4848-bf70-e1d13c093509" cert="high">Cádiz</placeName>. </p>
              
               <pb facs="pg_0002.png"/>
