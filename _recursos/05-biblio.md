@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bibliografía
-permalink: /acarete-biblio/
+permalink: /biblio/
 type: extras
 icon: book
 ---
