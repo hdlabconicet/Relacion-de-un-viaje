@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recursos
-permalink: /acarete-recursos/
+permalink: /recursos/
 type: extras
 ---
 
