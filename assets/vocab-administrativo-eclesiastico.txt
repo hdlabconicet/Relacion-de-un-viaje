@@ -1,0 +1,18 @@
+rey, https://es.wikipedia.org/wiki/Monarca
+vicealmirante, https://es.wikipedia.org/wiki/Vicealmirante
+virrey, https://es.wikipedia.org/wiki/Virrey
+gobernador, https://es.wikipedia.org/wiki/Gobernador
+obispo, https://es.wikipedia.org/wiki/Obispo
+jesuitas, https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_Jes%C3%BAs
+dominicos, https://es.wikipedia.org/wiki/Orden_de_Predicadores
+recoletos, https://es.wikipedia.org/wiki/Hermanos_menores_recoletos
+mercedarios, https://es.wikipedia.org/wiki/Orden_de_la_Merced
+comandante, https://es.wikipedia.org/wiki/Comandante
+teniente, https://es.wikipedia.org/wiki/Teniente
+alcalde, https://es.wikipedia.org/wiki/Alcalde
+inquisidor, https://es.wikipedia.org/wiki/Inquisidor
+comisario, https://es.wikipedia.org/wiki/Comisario
+corregidor, https://es.wikipedia.org/wiki/Corregidor
+consejo de Indias, https://es.wikipedia.org/wiki/Consejo_de_Indias
+capitán general, https://es.wikipedia.org/wiki/Capit%C3%A1n_general
+audiencia, https://es.wikipedia.org/wiki/Real_Audiencia
