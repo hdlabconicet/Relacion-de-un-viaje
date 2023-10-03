@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Estadística textual
+title: Análisis textual automatizado
 permalink: /voyant/
 type: extras
-description: Estadísticas textuales y visualizaciones con Voyant Tools
+description: Estadísticas textuales y visualizaciones del texto realizadas con Voyant Tools
 icon: bar-chart
 ---
 
