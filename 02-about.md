@@ -23,6 +23,6 @@ Esta edición digital se comparte a través de la licencia [Creative Commons 4.0
 
 Citar esta edición como: 
 
-<p style="font-size: 14px;">del Rio Riande, Gimena, Hernández, Nidia y De León, Romina (eds.). (2020). Acarete du Biscay. <i>Relación de un viaje al Río de la Plata y de allí por tierra al Perú con observaciones sobre los habitantes, sean indios o españoles, las ciudades, el comercio, la fertilidad y las riquezas de esta parte de América</i>. HD CAICYT Lab. <a href="{{ site.baseurl }}/">http://hdlab.space/Relacion-de-un-viaje/</a> [Fecha de consulta]</p>
+<p style="font-size: 14px;">del Rio Riande, Gimena, Hernández, Nidia y De León, Romina (eds.). (2020). Acarete du Biscay. <i>Relación de un viaje al Río de la Plata y de allí por tierra al Perú con observaciones sobre los habitantes, sean indios o españoles, las ciudades, el comercio, la fertilidad y las riquezas de esta parte de América</i>. HD Lab. <a href="{{ site.baseurl }}/">http://hdlab.space/Relacion-de-un-viaje/</a> [Fecha de consulta]</p>
 
 Repositorio de datos: <a class="no-underline" href="https://zenodo.org/badge/latestdoi/253643101"><img src="https://zenodo.org/badge/253643101.svg" alt="DOI"/></a>
