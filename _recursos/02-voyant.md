@@ -15,7 +15,7 @@ Las siguientes secciones presentan cuadros interactivos. En cada panel, deslice 
 
 Palabras más frecuentes del texto de Acarete du Biscay. Deslice el cursor sobre las palabras para ver la frecuencia en el texto.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/Cirrus/?palette=extjs&stopList=keywords-55ea55e9933ed6062c0ef087b3a73b02&whiteList=&visible=100&fontFamily=LatoWeb&corpus=876a19b39ea7f0b10da4ecc22c8dc9a5&lang=es&stopList=keywords-55ea55e9933ed6062c0ef087b3a73b02'></iframe>
+<iframe class="py-3" src='https://service.sadilar.org/voyant/tool/Cirrus/?stopList=keywords-545438a422ec8d8be37eec82395158e8&corpus=7b8386214c0e0920f80f38f2f313ffda'></iframe>
 
 Deslice la barra de términos para aumentar o disminuir la cantidad de palabras en la nube.
 
@@ -23,7 +23,7 @@ Deslice la barra de términos para aumentar o disminuir la cantidad de palabras 
 
 Contexto enunciativo de las palabras más frecuentes del texto. Puede modificar por frecuencia ascendente o descendente.
 
-<iframe class="py-3" src="https://voyant-tools.org/tool/Contexts/?palette=extjs&lang=es&stopList=keywords-55ea55e9933ed6062c0ef087b3a73b02&query=mercaderías&corpus=876a19b39ea7f0b10da4ecc22c8dc9a5"></iframe>
+<iframe class="py-3" src="https://service.sadilar.org/voyant/tool/Contexts/?stopList=keywords-545438a422ec8d8be37eec82395158e8&query=a&corpus=7b8386214c0e0920f80f38f2f313ffda"></iframe>
 
 Modifique el término a consultar desde el menú inferior izquierdo.
 
@@ -31,12 +31,12 @@ Modifique el término a consultar desde el menú inferior izquierdo.
 
 Evolución de la frecuencia de los principales términos de <i>Relación de un viaje al Río de la Plata</i>.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/Trends/?palette=extjs&lang=es&stopList=keywords-55ea55e9933ed6062c0ef087b3a73b02&query=mercaderías&query=río&query=minas&query=salvajes&mode=document&corpus=876a19b39ea7f0b10da4ecc22c8dc9a5'></iframe>
+<iframe class="py-3" src='https://service.sadilar.org/voyant/tool/Trends/?stopList=keywords-545438a422ec8d8be37eec82395158e8&query=buenos&query=aires&query=hasta&query=plata&query=r%C3%ADo&mode=document&corpus=7b8386214c0e0920f80f38f2f313ffda'></iframe>
 
 ## Grafo de colocaciones
 
 Deslice el cursor sobre las palabras de este grafo de colocaciones para consultar la frecuencia de cada par de términos.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/CollocatesGraph/?palette=extjs&lang=es&stopList=keywords-55ea55e9933ed6062c0ef087b3a73b02&query=minas&query=río&mode=corpus&corpus=876a19b39ea7f0b10da4ecc22c8dc9a5'></iframe>
+<iframe class="py-3" src='https://service.sadilar.org/voyant/tool/Links/?stopList=keywords-cefa75986faee7e695738230acf346d3&query=buenos&query=aires&query=r%C3%ADo&query=leguas&query=holandeses&query=potos%C3%AD&query=pesar&context=15&corpus=7b8386214c0e0920f80f38f2f313ffda'></iframe>
 
-<div class="py-4 mt-4"><p>Visite <a href="https://voyant-tools.org/?corpus=876a19b39ea7f0b10da4ecc22c8dc9a5&palette=extjs&stopList=keywords-55ea55e9933ed6062c0ef087b3a73b02&panels=reader,termsberry,textualarc,summary,correlations" target="_blank">este link</a> para descubrir <i>Relación de un viaje al Río de la Plata</i> a la luz de otras herramientas ofrecidas por Voyant Tools: <a href="https://voyant-tools.org/?corpus=876a19b39ea7f0b10da4ecc22c8dc9a5&palette=extjs&lang=es&stopList=keywords-55ea55e9933ed6062c0ef087b3a73b02&view=Bubbles" target="_blank">burbujas de términos</a>, <a href="https://voyant-tools.org/?corpus=876a19b39ea7f0b10da4ecc22c8dc9a5&palette=extjs&lang=es&stopList=keywords-55ea55e9933ed6062c0ef087b3a73b02&view=Veliza" target="_blank">Veliza</a>, <a href="https://voyant-tools.org/?corpus=876a19b39ea7f0b10da4ecc22c8dc9a5&palette=extjs&lang=es&stopList=keywords-55ea55e9933ed6062c0ef087b3a73b02&view=TextualArc" target="_blank">arco textual</a> y muchas más.</p></div>
+<div class="py-4 mt-4"><p>Visite <a href="https://service.sadilar.org/voyant/?stopList=keywords-cefa75986faee7e695738230acf346d3&panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=7b8386214c0e0920f80f38f2f313ffda" target="_blank">este link</a> para descubrir <i>Relación de un viaje al Río de la Plata</i> a la luz de otras herramientas ofrecidas por Voyant Tools: <a href="https://service.sadilar.org/voyant/tool/Bubbles/?stopList=keywords-cefa75986faee7e695738230acf346d3&corpus=7b8386214c0e0920f80f38f2f313ffda" target="_blank">burbujas de términos</a>, <a href="https://service.sadilar.org/voyant/tool/Veliza/?stopList=keywords-cefa75986faee7e695738230acf346d3&corpus=7b8386214c0e0920f80f38f2f313ffda" target="_blank">Veliza</a>, <a href="https://service.sadilar.org/voyant/tool/TextualArc/?stopList=keywords-cefa75986faee7e695738230acf346d3&corpus=7b8386214c0e0920f80f38f2f313ffda" target="_blank">arco textual</a> y muchas más.</p></div>
