@@ -23,7 +23,7 @@ Deslice la barra de términos para aumentar o disminuir la cantidad de palabras 
 
 Contexto enunciativo de las palabras más frecuentes del texto. Puede modificar por frecuencia ascendente o descendente.
 
-<iframe class="py-3" src="https://service.sadilar.org/voyant/tool/Contexts/?stopList=keywords-545438a422ec8d8be37eec82395158e8&query=a&corpus=7b8386214c0e0920f80f38f2f313ffda"></iframe>
+<iframe class="py-3" src="https://service.sadilar.org/voyant/tool/Contexts/?stopList=keywords-cefa75986faee7e695738230acf346d3&query=buenos&corpus=7b8386214c0e0920f80f38f2f313ffda"></iframe>
 
 Modifique el término a consultar desde el menú inferior izquierdo.
 
